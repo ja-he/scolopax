@@ -2,7 +2,7 @@
 
 `WIP`
 
-# Can't this be a shellscript with inotifywait or something?
+### Can't this be a shellscript with inotifywait or something?
 
 - yup :^)
 - check out [this one in my dotfiles](https://github.com/ja-he/dotfiles/blob/master/scripts/watch-dir-run-thing.sh), for example.
